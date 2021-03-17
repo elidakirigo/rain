@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background:deeppink;
+}
+
+section {
+    background: radial-gradient(#575783,#1f212e);
+    width: 93%;
+    height: 100vh;
+    position: absolute;
+    left: 3em;
+}
